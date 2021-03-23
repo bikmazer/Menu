@@ -1,7 +1,7 @@
 {
   "name": "bikmazer/menu-module",
   "type": "asgard-module",
-  "description": "Menu module for AsgardCMS. Handles all the menus.",
+  "description": "Menu module for AsgardCMS. Handles all the menus. ",
   "keywords": [
     "asgardcms",
     "menu",
